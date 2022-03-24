@@ -1,0 +1,9 @@
+{
+  "name": "dunja",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.8.6"
+  }
+}
